@@ -3,8 +3,7 @@
 <h4 align="left">This project consists of the following frameworks, plugins, and libraries:</h4>
 <ul>
   <li>Selenium Webdriver</li>
-  <li>Cucumber</li>
-  <li>Gherkin Syntax</li>
+  <li>Cucumber Framework</li>
   <li>Junit</li>
   <li>Java</li>
   <li>MySQL</li>
