@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Software Quality Automation Engineer.</h3>
 <h4 align="left">This project consists of the following frameworks, plugins, and libraries:</h4>
 <ul>
-  <li>Selenium</li>
   <li>Selenium Webdriver</li>
   <li>Cucumber</li>
   <li>Gherkin Syntax</li>
